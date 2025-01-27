@@ -6,7 +6,7 @@ export OPENAI_API_KEY="your_api_key"
 
 ## Installation:
 Clone the Repository:
-git clone [https://github.com/your_username/chatgpt-fine-tuning-utilities.git](https://github.com/fayazkhan121/OpenAi_fine-tuning/)
+git clone https://github.com/fayazkhan121/OpenAi_fine-tuning
 cd openai_fine-tuning
 
 ## Install Dependencies:
